@@ -1,0 +1,76 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.cabecera{
+    text-align: left;
+    
+}
+
+.texto-cabecera{
+    margin-left: 490px;
+    font-size: 30px;
+}   
+
+.cuerpo{
+    text-align: center;
+     align-content: center;
+    background-color: rgb(241, 237, 237);
+    padding-top: 60px;
+    
+}
+
+.post{
+    width: 500px;
+    height: 400px;
+    margin: 10px auto 0;  
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.titulo-post{
+    width: 485px;
+    height: 30px; 
+    
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.titulo-foto{
+    width: 280px;
+    height: 20px;
+    padding-top: 10px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+    
+   
+}
+
+.nro-foto{
+    width: 200px;
+    height: 20px;
+    padding-top: 10px;
+    text-align: right;
+    margin-top: 0px;
+    margin-left: 0px;
+    float: right;
+    font-size: 12px;
+    color: rgb(201, 197, 197);
+    
+}
+
+.foto{
+    width: 500px;
+    height: 330px; 
+    
+}
+
+.texto-foto{
+    
+    text-align: justify;
+    padding: 20px 10px 10px 10px;
+    font-size: 13px;
+}
